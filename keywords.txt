@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map BMP085
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+BMP085	KEYWORD2
+getBoschRawTemperature	KEYWORD2
+getBoschRawPressure	KEYWORD2
+calculateBoschTemperature	KEYWORD2
+calculateBoschPressure	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
